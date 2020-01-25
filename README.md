@@ -15,7 +15,11 @@ _Esto es una itálica_ \*_*Esto es una negrita con itálica*_
 >
 > Este es el último parráfo
 
-console.log('hola mudor')
+```javascript
+  console.log('hola mudor')
+```
+
+
 Nombre: Especificamos cómo se llama nuestro proyecto.
 
 Descripción: es donde diremos para qué exactamente es el proyecto, qué problemas resuelve y cualquier información relevante.
